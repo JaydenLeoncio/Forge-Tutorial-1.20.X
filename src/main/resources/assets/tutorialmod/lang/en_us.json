@@ -1,24 +1,24 @@
 {
-  "item.tutorialmod.sapphire": "Sapphire",
-  "item.tutorialmod.raw_sapphire": "Raw Sapphire",
+  "item.tutorialmod.sapphire": "Steel",
+  "item.tutorialmod.raw_sapphire": "Raw Steel",
 
   "item.tutorialmod.metal_detector": "Metal Detector",
-  "item.tutorialmod.strawberry": "Strawberry",
-  "item.tutorialmod.pine_cone": "Pine Cone",
-  "item.tutorialmod.sapphire_staff": "Sapphire Staff",
+  "item.tutorialmod.strawberry": "Kool-Aid Strawberry",
+  "item.tutorialmod.pine_cone": "Aardappelpannenkoek",
+  "item.tutorialmod.sapphire_staff": "Steel Staff",
 
-  "item.tutorialmod.sapphire_sword": "Sapphire Sword",
-  "item.tutorialmod.sapphire_pickaxe": "Sapphire Pickaxe",
-  "item.tutorialmod.sapphire_axe": "Sapphire Axe",
-  "item.tutorialmod.sapphire_shovel": "Sapphire Shovel",
-  "item.tutorialmod.sapphire_hoe": "Sapphire Hoe",
+  "item.tutorialmod.sapphire_sword": "Het Divine Executioner’s sword",
+  "item.tutorialmod.sapphire_pickaxe": "Titan’s Pick",
+  "item.tutorialmod.sapphire_axe": "Ragnarok’s Axe",
+  "item.tutorialmod.sapphire_shovel": "Earthrender's Shovel",
+  "item.tutorialmod.sapphire_hoe": "Godly Hoe",
 
-  "item.tutorialmod.sapphire_helmet": "Sapphire Helmet",
-  "item.tutorialmod.sapphire_chestplate": "Sapphire Chestplate",
-  "item.tutorialmod.sapphire_leggings": "Sapphire Leggings",
-  "item.tutorialmod.sapphire_boots": "Sapphire Boots",
+  "item.tutorialmod.sapphire_helmet": "Godly Helmet",
+  "item.tutorialmod.sapphire_chestplate": "Godly Chestplate",
+  "item.tutorialmod.sapphire_leggings": "Godly Leggings",
+  "item.tutorialmod.sapphire_boots": "Godly Boots",
 
-  "item.tutorialmod.strawberry_seeds": "Strawberry Seeds",
+  "item.tutorialmod.strawberry_seeds": "'Kool-Aid Strawberry Seeds",
 
   "item.tutorialmod.corn": "Corn",
   "item.tutorialmod.corn_seeds": "Corn Seeds",
@@ -31,25 +31,25 @@
 
   "item.tutorialmod.dice": "Dice",
 
-  "block.tutorialmod.sapphire_block": "Block of Sapphire",
-  "block.tutorialmod.raw_sapphire_block": "Block of Raw Sapphire",
+  "block.tutorialmod.sapphire_block": "Heaven’s Block",
+  "block.tutorialmod.raw_sapphire_block": "Block of Raw Steel",
 
-  "block.tutorialmod.sapphire_ore": "Sapphire Ore",
-  "block.tutorialmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
-  "block.tutorialmod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
-  "block.tutorialmod.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.tutorialmod.sapphire_ore": "Steel Ore",
+  "block.tutorialmod.deepslate_sapphire_ore": "Deepslate Steel Ore",
+  "block.tutorialmod.end_stone_sapphire_ore": "Endstone Steel Ore",
+  "block.tutorialmod.nether_sapphire_ore": "Nether Steel Ore",
 
   "block.tutorialmod.sound_block": "Sound Block",
 
-  "block.tutorialmod.sapphire_stairs": "Sapphire Stairs",
-  "block.tutorialmod.sapphire_slab": "Sapphire Slab",
-  "block.tutorialmod.sapphire_button": "Sapphire Button",
-  "block.tutorialmod.sapphire_pressure_plate": "Sapphire Pressure Plate",
-  "block.tutorialmod.sapphire_fence": "Sapphire Fence",
-  "block.tutorialmod.sapphire_fence_gate": "Sapphire Fence Gate",
-  "block.tutorialmod.sapphire_wall": "Sapphire Wall",
-  "block.tutorialmod.sapphire_door": "Sapphire Door",
-  "block.tutorialmod.sapphire_trapdoor": "Sapphire Trapdoor",
+  "block.tutorialmod.sapphire_stairs": "Steel Stairs",
+  "block.tutorialmod.sapphire_slab": "Steel Slab",
+  "block.tutorialmod.sapphire_button": "Steel Button",
+  "block.tutorialmod.sapphire_pressure_plate": "Steel Pressure Plate",
+  "block.tutorialmod.sapphire_fence": "Steel Fence",
+  "block.tutorialmod.sapphire_fence_gate": "Steel Fence Gate",
+  "block.tutorialmod.sapphire_wall": "Steel Wall",
+  "block.tutorialmod.sapphire_door": "Steel Door",
+  "block.tutorialmod.sapphire_trapdoor": "Steel Trapdoor",
   
   "block.tutorialmod.catmint": "Catmint",
 
@@ -75,5 +75,5 @@
   "sounds.tutorialmod.metal_detector_found_ore": "Metal Detector Jingle",
 
 
-  "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
+  "creativetab.tutorial_tab": "Godly Tab"
 }
